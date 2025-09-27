@@ -1,0 +1,14 @@
+/root/NETServer/bin/Debug/net8.0/NETServer
+/root/NETServer/bin/Debug/net8.0/NETServer.deps.json
+/root/NETServer/bin/Debug/net8.0/NETServer.runtimeconfig.json
+/root/NETServer/bin/Debug/net8.0/NETServer.dll
+/root/NETServer/bin/Debug/net8.0/NETServer.pdb
+/root/NETServer/obj/Debug/net8.0/NETServer.GeneratedMSBuildEditorConfig.editorconfig
+/root/NETServer/obj/Debug/net8.0/NETServer.AssemblyInfoInputs.cache
+/root/NETServer/obj/Debug/net8.0/NETServer.AssemblyInfo.cs
+/root/NETServer/obj/Debug/net8.0/NETServer.csproj.CoreCompileInputs.cache
+/root/NETServer/obj/Debug/net8.0/NETServer.dll
+/root/NETServer/obj/Debug/net8.0/refint/NETServer.dll
+/root/NETServer/obj/Debug/net8.0/NETServer.pdb
+/root/NETServer/obj/Debug/net8.0/NETServer.genruntimeconfig.cache
+/root/NETServer/obj/Debug/net8.0/ref/NETServer.dll
