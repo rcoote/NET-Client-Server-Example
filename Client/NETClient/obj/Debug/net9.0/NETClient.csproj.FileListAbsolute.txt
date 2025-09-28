@@ -1,0 +1,15 @@
+C:\Users\samue\Documents\NET-Client-Server-Example\Client\NETClient\bin\Debug\net9.0\NETClient.exe
+C:\Users\samue\Documents\NET-Client-Server-Example\Client\NETClient\bin\Debug\net9.0\NETClient.deps.json
+C:\Users\samue\Documents\NET-Client-Server-Example\Client\NETClient\bin\Debug\net9.0\NETClient.runtimeconfig.json
+C:\Users\samue\Documents\NET-Client-Server-Example\Client\NETClient\bin\Debug\net9.0\NETClient.dll
+C:\Users\samue\Documents\NET-Client-Server-Example\Client\NETClient\bin\Debug\net9.0\NETClient.pdb
+C:\Users\samue\Documents\NET-Client-Server-Example\Client\NETClient\obj\Debug\net9.0\NETClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Documents\NET-Client-Server-Example\Client\NETClient\obj\Debug\net9.0\NETClient.AssemblyInfoInputs.cache
+C:\Users\samue\Documents\NET-Client-Server-Example\Client\NETClient\obj\Debug\net9.0\NETClient.AssemblyInfo.cs
+C:\Users\samue\Documents\NET-Client-Server-Example\Client\NETClient\obj\Debug\net9.0\NETClient.csproj.CoreCompileInputs.cache
+C:\Users\samue\Documents\NET-Client-Server-Example\Client\NETClient\obj\Debug\net9.0\NETClient.sourcelink.json
+C:\Users\samue\Documents\NET-Client-Server-Example\Client\NETClient\obj\Debug\net9.0\NETClient.dll
+C:\Users\samue\Documents\NET-Client-Server-Example\Client\NETClient\obj\Debug\net9.0\refint\NETClient.dll
+C:\Users\samue\Documents\NET-Client-Server-Example\Client\NETClient\obj\Debug\net9.0\NETClient.pdb
+C:\Users\samue\Documents\NET-Client-Server-Example\Client\NETClient\obj\Debug\net9.0\NETClient.genruntimeconfig.cache
+C:\Users\samue\Documents\NET-Client-Server-Example\Client\NETClient\obj\Debug\net9.0\ref\NETClient.dll
