@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C# Projekte\\chat\\chat.csproj",
-      "projectName": "chat",
-      "projectPath": "D:\\C# Projekte\\chat\\chat.csproj",
+      "projectUniqueName": "C:\\Users\\samue\\Documents\\NET-Client-Server-Example\\Client\\NETClient\\NETClient.csproj",
+      "projectName": "NETClient",
+      "projectPath": "C:\\Users\\samue\\Documents\\NET-Client-Server-Example\\Client\\NETClient\\NETClient.csproj",
       "packagesPath": "C:\\Users\\samue\\.nuget\\packages\\",
-      "outputPath": "D:\\C# Projekte\\chat\\obj\\",
+      "outputPath": "C:\\Users\\samue\\Documents\\NET-Client-Server-Example\\Client\\NETClient\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\samue\\AppData\\Roaming\\NuGet\\NuGet.Config"
